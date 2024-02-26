@@ -21,3 +21,6 @@ Nanuming uses various Google Clout Platform solutions such as Maps Platform, Clo
 
 ## 📼 3D Demo
 ![nanuming_3d_demo](https://github.com/Nanum-ing/.github/assets/77562698/af2fdb11-8e25-4040-86de-64965294b8ec.gif)
+
+## ☁️ Architecture
+![nanuming_architecture](https://github.com/Nanum-ing/.github/assets/77562698/377417d6-d490-43c9-af8b-28397637706d)
