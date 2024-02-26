@@ -2,6 +2,10 @@
 
 ![nanuming_logo](https://github.com/Nanum-ing/.github/assets/77562698/7ade5190-c6a3-469a-99a6-3e3d111ff05f)
 
+## 📦 Repositories
+[Nanuming iOS](https://github.com/Nanum-ing/Nanuming-iOS)  
+[Nanuming Server](https://github.com/Nanum-ing/Nanuming-Server)
+
 ## 📚 Stack
 ### iOS
 
